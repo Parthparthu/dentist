@@ -1,0 +1,21 @@
+- [x] Added geo config
+- [x] Replaced raw img tags with next/image
+- [x] Verified risky hardcoded/risky copy search
+- [x] Fixed encoded dynamic service route folder
+- [x] Verified no %5Bslug%5D folder remains
+- [x] Replaced invalid Tailwind color utilities
+- [x] Verified no invalid custom shade utilities remain
+- [x] Hardened booking API validation
+- [x] Improved booking form validation and fallback CTAs
+- [x] Removed hardcoded service metadata location
+- [x] Final source searches passed
+- [x] npm run lint passed
+- [x] npm run build passed
+- [x] Manual route QA passed
+- [x] Booking form QA passed
+- [x] Create modern animated theme changing button and integrated dark mode setup
+- [x] Repair broken Tailwind color class names (WhatsApp and link colors)
+- [x] Implement typewriter animation on Hero headline
+- [x] Implement ScrollReveal scroll-reveal animations across all homepage sections
+- [x] Run npm run lint successfully
+- [x] Run npm run build successfully
