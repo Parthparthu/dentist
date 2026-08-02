@@ -1,6 +1,8 @@
 import type { MetadataRoute } from "next";
 import { clinicConfig } from "@/config/clinic";
 
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const routes = [
     "",
